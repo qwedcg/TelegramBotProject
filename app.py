@@ -4,7 +4,7 @@ import telebot
 from telebot import types
 
 # إعداد التوكن الخاص بالبوت من متغيرات البيئة
-API_TOKEN = os.getenv("API_TOKEN")
+API_TOKEN = os.getenv("7134109462:AAFSa9BRrCYdNGG-ehhcO0VzIOmB65zX0gI")
 bot = telebot.TeleBot(API_TOKEN)
 
 # مسارات البيانات المؤقتة
